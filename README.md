@@ -8,4 +8,5 @@ The repo has:
 - final results from dissertation paper
 
 ### TODO:
-Write wrapper scripts to only use RESCO as submodule, and have new environments be independent of it.
+- write wrapper scripts to only use RESCO as submodule, and have new environments be independent of it.
+- update plot method to use relative folder paths
